@@ -1,8 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with React.
 
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
+Run to install development dependencies.<br>
 
 ### `npm start`
 
@@ -14,9 +16,6 @@ You will also see any lint errors in the console.
 
 
 ## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-Edited by Anderson Vinicius Bellini
+###Created by: Anderson Vinicius Bellini
