@@ -1,0 +1,40 @@
+.product-info{
+max-width: 700px;
+margin: 20px auto 0;
+padding: 20px;
+background: #FFF;
+border-radius: 5px;
+border: 1px solid #ddd;
+}
+
+.product-info h1{
+    font-size: 32px;
+}
+
+.product-info p{
+    color: #666;
+    line-height: 24px;
+    margin-top: 5px;    
+}
+
+.product-info p a{
+    color: #069;
+}
+
+.actions{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.actions button{
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    background: #1d618f;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
